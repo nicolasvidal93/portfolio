@@ -70,7 +70,7 @@ const CONFIG = {
     dribbble: '',
     behance: '',
     medium: 'Nicolas Vidal Quini',
-    dev: 'arifszn',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
    'Google Earth Engine',
@@ -96,18 +96,18 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Intituto Argentino de Oceanografía - CONICET',
+      position: 'Doctoral fellowship',
+      from: '2018',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://iado.conicet.gov.ar/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Geotechnology Research Laboratory - Departamento de Geografía y Turismo - Universidad Nacional del sur',
+      position: 'Researcher',
+      from: 'July 2017',
+      to: 'Present',
+      companyLink: 'https://labgeot.uns.edu.ar/',
     },
   ],
   certifications: [
@@ -120,16 +120,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Universidad Nacional del Sur - Instituto Argentino de Oceanografía',
+      degree: 'PhD in Geography',
+      from: '2018',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Universidad Nacional del Sur',
+      degree: 'Degree in Geography',
       from: '2012',
-      to: '2014',
+      to: '2018',
     },
   ],
   publications: [
