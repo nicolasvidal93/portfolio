@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'nicolasvq', // Your GitHub org/user name. (This is the only required config)
+    username: 'nicolasvidal93', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
