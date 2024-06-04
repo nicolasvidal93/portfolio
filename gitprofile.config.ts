@@ -60,8 +60,7 @@ const CONFIG = {
     linkedin: 'Nicolas Vidal Quini',
     twitter: '@Nicovidalq',
     mastodon: '',
-    researchGate: 'Nicolás Emanuel Vidal Quini
-',
+    researchGate: 'Nicolás Emanuel Vidal Quini',
     facebook: '',
     instagram: '',
     reddit: '',
