@@ -24,6 +24,29 @@ const CONFIG = {
       to: '2018',
     },
   ],
+   experiences: [
+    {
+      company: 'Instituto Argentino de Oceanografía - CONICET',
+      position: 'Doctoral fellowship',
+      from: '2018',
+      to: 'Present',
+      companyLink: 'https://iado.conicet.gov.ar/',
+    },
+    {
+      company: 'Geotechnology Research Laboratory - Departamento de Geografía y Turismo - Universidad Nacional del sur',
+      position: 'Researcher',
+      from: 'July 2017',
+      to: 'Present',
+      companyLink: 'https://labgeot.uns.edu.ar/',
+    },
+    {
+      company: 'Research within the framework of the Spatial Data Infrastructure of the Southwest of Buenos Aires Working Group (IDESoB)',
+      position: 'Researcher',
+      from: 'July 2017',
+      to: 'Present',
+      companyLink: 'https://idesob.uns.edu.ar/',
+    },
+  ],
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -69,6 +92,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
+    email: 'nicolasvidalquini@gmail.com',
     linkedin: 'Nicolas Vidal Quini',
     twitter: '@Nicovidalq',
     mastodon: '',
@@ -88,8 +112,7 @@ const CONFIG = {
     telegram: '',
     website: '',
     phone: '',
-    email: 'nicolasvidalquini@gmail.com',
-  },
+      },
   resume: {
     fileUrl:
       'https://github.com/nicolasvidal93/README/blob/main/CV_Nicolas_Vidal_Quini_git2.pdf', // Empty fileUrl will hide the `Download Resume` button.
@@ -106,29 +129,7 @@ const CONFIG = {
     'Git',
     'Geoserver',
   ],
-  experiences: [
-    {
-      company: 'Instituto Argentino de Oceanografía - CONICET',
-      position: 'Doctoral fellowship',
-      from: '2018',
-      to: 'Present',
-      companyLink: 'https://iado.conicet.gov.ar/',
-    },
-    {
-      company: 'Geotechnology Research Laboratory - Departamento de Geografía y Turismo - Universidad Nacional del sur',
-      position: 'Researcher',
-      from: 'July 2017',
-      to: 'Present',
-      companyLink: 'https://labgeot.uns.edu.ar/',
-    },
-    {
-      company: 'Research within the framework of the Spatial Data Infrastructure of the Southwest of Buenos Aires Working Group (IDESoB)',
-      position: 'Researcher',
-      from: 'July 2017',
-      to: 'Present',
-      companyLink: 'https://idesob.uns.edu.ar/',
-    },
-  ],
+ 
   certifications: [
     {
       name: 'Exploratory multivariate analysis',
