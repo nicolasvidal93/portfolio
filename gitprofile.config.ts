@@ -79,7 +79,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/nicolasvidal93/README/blob/main/CV_Nicolas_Vidal_Quini_git.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'CV_Nicolas_Vidal_Quini_git.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
    'Google Earth Engine',
