@@ -42,7 +42,7 @@ const CONFIG = {
         {
           title: 'Southwest Buenos Aires Geographic Information Catalog',
           description:
-            'Normalization of vector and raster data for the Southwest of Buenos Aires province according to the Argentinian Infrastructure Spatial Data. Committed to optimizing resource utilization in alignment with the goals of sustainable development within the framework of the 2030 SDGs.',
+            'Normalization of vector and raster data for the Southwest of Buenos Aires province according to the Argentinian Infrastructure Spatial Data. With the aim of surveying the distribution of shallow water bodies and potential wetlands in the Encadenadas del Oeste basin, a methodology was developed to show the frequency distribution of the presence and/or absence of water during dry and wet periods from 1986 to 2021 using NDWI from Landsat images.',
           imageUrl:
             'https://catalogo-ig.labgeot.uns.edu.ar/geonetwork/srv/spa/catalog.search#/metadata/89cbb6db-4396-4245-88b3-90786e223c2e',
           link: 'https://catalogo-ig.labgeot.uns.edu.ar/geonetwork/srv/spa/catalog.search#/home',
