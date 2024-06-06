@@ -148,9 +148,9 @@ const CONFIG = {
   journalName: 'Investigaciones Geográficas',
   authors: ['Vidal Quini, N. E.', 'Geraldi, A. M.'],
   link: 'https://doi.org/10.14198/INGEO.23410',
-  description: 'This study explores the dynamics of shallow lakes in Argentina\'s Pampa region over a 35-year period using satellite imagery and meteorological data. It examines the frequency of these water bodies and discusses their implications for regional hydrography and environmental management.'
-}
-,
+  description: 
+    'This study explores the dynamics of shallow lakes in Argentina\'s Pampa region over a 35-year period using satellite imagery and meteorological data. It examines the frequency of these water bodies and discusses their implications for regional hydrography and environmental management.',
+    },
      {
       title: 'Environmental characterization of pampean wetlands through multi-temporal analysis sentinel 1',
       conferenceName: 'CIOTTIG 2022',
