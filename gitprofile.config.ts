@@ -140,7 +140,7 @@ const CONFIG = {
       authors: 'John Doe, Jane Smith',
       link: 'https://example.com',
       description:
-        'Remote sensing is essential for analyzing spatial-temporal phenomena in Environmental Geography. Using Synthetic Aperture RADAR (SAR) images, this study characterizes a shallow lake and its wetlands via backscattering parameters. Principal component analysis on Sentinel 1 C images identifies potential wetlands for other land uses, aiding in understanding environmental functionality for risk and vulnerability assessments',
+        'Remote sensing is essential for analyzing spatial-temporal phenomena in Environmental Geography. Using Synthetic Aperture RADAR (SAR) images, this study characterizes a shallow lake and its wetlands via backscattering parameters. Principal component analysis on Sentinel 1 C images identifies potential wetlands for other land uses, aiding in understanding environmental functionality for risk and vulnerability assessments.',
     },
     {
       title: 'Publication Title',
