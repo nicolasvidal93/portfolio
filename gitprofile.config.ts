@@ -157,7 +157,7 @@ const CONFIG = {
   journalName: 'Cuadernos Geográficos ISSN: 2340-0129',
   authors: ['Vidal Quini, N. E.', 'Geraldi, A.M.'],
   link: 'https://doi.org/10.30827/cuadgeo.v60i3.18039',
-  description: 'Recent interest in wetland detection and delineation aims to understand and manage these ecosystems better. This article focuses on identifying wetland areas in the Alsina basin, Argentina, using optical and radar imagery. It also examines the impact of a 2017 flood event on wetland systems, confirming diverse wetland types and a hybrid ecosystem during floods.'
+  description: 'Recent interest in wetland detection and delineation aims to understand and manage these ecosystems better. This article focuses on identifying wetland areas in the Alsina basin, Argentina, using optical and radar imagery. It also examines the impact of a 2017 flood event on wetland systems, confirming diverse wetland types and a hybrid ecosystem during floods.',
 }
 ,
   ],
