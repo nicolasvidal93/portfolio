@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'Participation in Research Projects',
+      header: 'Participation in Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -244,8 +244,8 @@ const CONFIG = {
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
