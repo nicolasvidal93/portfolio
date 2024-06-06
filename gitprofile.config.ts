@@ -140,7 +140,7 @@ const CONFIG = {
       authors: 'John Doe, Jane Smith',
       link: 'https://example.com',
       description:
-        'Remote sensing is crucial for analyzing spatial-temporal phenomena in Environmental Geography. It enables detailed monitoring of environmental issues through spatial, temporal, and multiscale resolution. Synthetic Aperture RADAR (SAR) images characterize and monitor environments due to their sensitivity to surface characteristics. This study uses backscattering parameters to characterize a shallow lake and its wetlands. Principal component analysis on Sentinel 1 C images differentiates potential wetlands from other land uses. This information is vital for understanding the study area's environmental functionality in risk, vulnerability, and threat assessments.',
+        'Remote sensing is essential for analyzing spatial-temporal phenomena in Environmental Geography. Using Synthetic Aperture RADAR (SAR) images, this study characterizes a shallow lake and its wetlands via backscattering parameters. Principal component analysis on Sentinel 1 C images identifies potential wetlands for other land uses, aiding in understanding environmental functionality for risk and vulnerability assessments',
     },
     {
       title: 'Publication Title',
