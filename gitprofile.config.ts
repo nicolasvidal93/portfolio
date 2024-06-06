@@ -149,7 +149,7 @@ const CONFIG = {
       authors: 'Vidal Quini, N. E., and Geraldi, A.M.',
       link: 'https://doi.org/10.14198/INGEO.23410',
       description:
-        'The shallow lakes in Argentina's Pampa region exhibit significant variability in temperature and precipitation. These ecosystems are vital, yet their environmental services remain understudied. Recent decades have seen climate variability and agricultural practices alter the regional hydrography. This study employs satellite imagery and meteorological data to monitor these shallow lakes over 35 years, examining dynamics related to temperature and precipitation changes. Results indicate temperature exerts a greater influence than precipitation on shallow lake presence or desiccation. This methodology underscores the necessity of understanding hydrographic system responses to potential hazards and identifying vulnerabilities.',
+        'This 35-year study of shallow lakes in Argentina's Pampa region utilizes satellite imagery and meteorological data. It reveals that temperature has a more significant impact than precipitation on the presence or desiccation of these water bodies, emphasizing the importance of understanding and addressing environmental risks in the region',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
