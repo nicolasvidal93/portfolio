@@ -152,7 +152,7 @@ const CONFIG = {
     'This study explores the dynamics of shallow lakes in Argentina\'s Pampa region over a 35-year period using satellite imagery and meteorological data. It examines the frequency of these water bodies and discusses their implications for regional hydrography and environmental management.',
     },
      {
-  title: 'Recent Advances in Wetland Detection and Delineation: A Case Study in the Alsina Basin, Argentina',
+  title: 'Synergy of Sentinel 1 and Sentinel 2 A images for the delimitation of wetlands from an ecohydrogeomorphic approach.',
   conferenceName: '',
   journalName: 'Cuadernos Geográficos ISSN: 2340-0129',
   authors: ['Vidal Quini, N. E.', 'Geraldi, A.M.'],
