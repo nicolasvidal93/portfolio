@@ -226,12 +226,12 @@ const CONFIG = {
 }
 ,
  {
-  title: 'Synergy of Sentinel 1 and Sentinel 2 A images for the delimitation of wetlands from an ecohydrogeomorphic approach.',
+  title: '“ASPO effect (Preventive and Mandatory Social Isolation) in the atmosphere of the southwest of the province of Buenos Aires, Argentine Republic.',
   conferenceName: '',
-  journalName: 'Cuadernos Geográficos ISSN: 2340-0129',
-  authors: ['Vidal Quini, N. E.', 'Geraldi, A.M.'],
-  link: 'https://doi.org/10.30827/cuadgeo.v60i3.18039',
-  description: 'Recent interest in wetland detection and delineation aims to understand and manage these ecosystems better. This article focuses on identifying wetland areas in the Alsina basin, Argentina, using optical and radar imagery. It also examines the impact of a 2017 flood event on wetland systems, confirming diverse wetland types and a hybrid ecosystem during floods.',
+  journalName: ' Estudios socioterritoriales – ISSN: 1853-4392',
+  authors: ['Laffeuillade L., Vidal Quini N., Peñas V.H and Geraldi A. M.'],
+  link: ' https://doi.org/10.37838/unicen/est.32-130',
+  description: 'In 2020, Argentina implemented COVID-19 Preventive and Compulsory Social Isolation (ASPO), leading to reduced economic activities and population movement. Studies show a decrease in harmful greenhouse gases, notably NO₂, due to health measures. Analysis in Southwest Buenos Aires reveals a significant decline in NO₂ levels attributed to reduced traffic and anthropogenic activities during the pandemic.',
 }
 ,    
   ],
