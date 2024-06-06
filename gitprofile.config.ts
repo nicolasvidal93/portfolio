@@ -95,7 +95,7 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Intituto Argentino de Oceanografía - CONICET',
+      company: 'Instituto Argentino de Oceanografía - CONICET',
       position: 'Doctoral fellowship',
       from: '2018',
       to: 'Present',
@@ -107,6 +107,13 @@ const CONFIG = {
       from: 'July 2017',
       to: 'Present',
       companyLink: 'https://labgeot.uns.edu.ar/',
+    },
+    {
+      company: 'Research within the framework of the Spatial Data Infrastructure of the Southwest of Buenos Aires Working Group (IDESoB)',
+      position: 'Researcher',
+      from: 'July 2017',
+      to: 'Present',
+      companyLink: 'https://idesob.uns.edu.ar/',
     },
   ],
   certifications: [
