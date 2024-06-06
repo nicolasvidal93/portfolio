@@ -134,11 +134,11 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'Environmental characterization of pampean wetlands through multi-temporal analysis sentinel 1',
+      conferenceName: 'CIOTTIG 2022',
+      journalName: 'Geografía y Sistemas de Información Geográfica ISSN 1852-8031',
+      authors: 'Vidal Quini, N. E., Lucía M. Laffeuillade, and Geraldi, A. M. ',
+      link: 'https://revistageosig.wixsite.com/geosig/geosig-27-2023',
       description:
         'Remote sensing is essential for analyzing spatial-temporal phenomena in Environmental Geography. Using Synthetic Aperture RADAR (SAR) images, this study characterizes a shallow lake and its wetlands via backscattering parameters. Principal component analysis on Sentinel 1 C images identifies potential wetlands for other land uses, aiding in understanding environmental functionality for risk and vulnerability assessments.',
     },
