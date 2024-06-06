@@ -207,6 +207,33 @@ const CONFIG = {
   description: 'Recent interest in wetland detection and delineation aims to understand and manage these ecosystems better. This article focuses on identifying wetland areas in the Alsina basin, Argentina, using optical and radar imagery. It also examines the impact of a 2017 flood event on wetland systems, confirming diverse wetland types and a hybrid ecosystem during floods.',
 }
 ,
+ {
+  title: 'Sentinel-1 SAR classification and water stress index using Landsat 8 for the characterization and identification of wetlands and associated ecosystems.',
+  conferenceName: 'XIX Reunión de Trabajo en Procesamiento de la Información y Control (RPIC’2021)',
+  journalName: 'Abstract Book: XIX Reunión de Trabajo en Procesamiento de la Información y Control (RPIC’2021)',
+  authors: ['Vidal Quini, N. E.', 'Geraldi, A.M.'],
+  link: 'https://www.rpic.com.ar/',
+  description: 'Polarimetric synthetic aperture radar data, coupled with optical products, monitor scattering behaviors in diverse ecosystems. Changes indicate biophysical variations linked to exogenous processes like weather and human activities. This aids in identifying fundamental environmental units, such as wetlands, in agriculturally dominated landscapes. Despite low performance, results characterize shallow water wetlands effectively.',
+}
+,
+ {
+  title: 'Contribution of remote sensing for the study of environmental vulnerability of wetlands in southwestern Buenos Aires province.',
+  conferenceName: 'GÆA',
+  journalName: ' Contribuciones Científicas GÆA 34, 52-62 – ISSN: 0328-3194. Editorial GÆA Sociedad Argentina de Estudios Geográficos',
+  authors: ['Vidal Quini, N. E.', 'Geraldi, A.M.'],
+  link: 'https://gaea.org.ar/contribuciones/contri34.htm',
+  description: 'Remote sensing is pivotal in geography, providing insights into landscapes and territories. Temporal spectral analyses reveal spatial manifestations shaped by social and environmental processes. In risk studies, integrating spatial and temporal aspects aids in understanding historical and social constructs, guiding analytical development. In a Pampas endorheic basin, exposing wetlands through optical image products informs seasonal scenarios, reflecting environmental dynamics effectively.',
+}
+,
+ {
+  title: 'Synergy of Sentinel 1 and Sentinel 2 A images for the delimitation of wetlands from an ecohydrogeomorphic approach.',
+  conferenceName: '',
+  journalName: 'Cuadernos Geográficos ISSN: 2340-0129',
+  authors: ['Vidal Quini, N. E.', 'Geraldi, A.M.'],
+  link: 'https://doi.org/10.30827/cuadgeo.v60i3.18039',
+  description: 'Recent interest in wetland detection and delineation aims to understand and manage these ecosystems better. This article focuses on identifying wetland areas in the Alsina basin, Argentina, using optical and radar imagery. It also examines the impact of a 2017 flood event on wetland systems, confirming diverse wetland types and a hybrid ecosystem during floods.',
+}
+,    
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
