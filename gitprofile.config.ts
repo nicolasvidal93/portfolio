@@ -149,7 +149,7 @@ const CONFIG = {
       authors: 'Vidal Quini, N. E., and Geraldi,A. M. ',
       link: 'https://doi.org/10.14198/INGEO.23410',
       description:
-        'The study explores the dynamics of shallow lakes in Argentina's Pampa region over 35 years using satellite imagery and meteorological data. Findings reveal temperature's predominant influence over precipitation on lake presence or desiccation, emphasizing the imperative of understanding hydrographic system responses to hazards and vulnerabilities.',
+        'The study explores the dynamics of shallow lakes in Argentina's Pampa region over 35 years using satellite imagery and meteorological data.',
     },
      {
       title: 'Environmental characterization of pampean wetlands through multi-temporal analysis sentinel 1',
