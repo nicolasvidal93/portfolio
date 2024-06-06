@@ -152,11 +152,11 @@ const CONFIG = {
     'This study explores the dynamics of shallow lakes in Argentina\'s Pampa region over a 35-year period using satellite imagery and meteorological data. It examines the frequency of these water bodies and discusses their implications for regional hydrography and environmental management.',
     },
      {
-      title: 'Environmental characterization of pampean wetlands through multi-temporal analysis sentinel 1',
-      conferenceName: 'CIOTTIG 2022',
-      journalName: 'Geografía y Sistemas de Información Geográfica ISSN 1852-8031',
-      authors: 'Vidal Quini, N. E., Lucía M. Laffeuillade, and Geraldi, A. M. ',
-      link: 'https://revistageosig.wixsite.com/geosig/geosig-27-2023',
+      title: 'Vidal Quini, N. E., and Geraldi, A.M.',
+      conferenceName: '',
+      journalName: 'Cuadernos GeográficosISSN: 2340-0129',
+      authors: 'Vidal Quini, N. E., and Geraldi, A.M. ',
+      link: '10.30827/cuadgeo.v60i3.18039',
       description:
         'Remote sensing is essential for analyzing spatial-temporal phenomena in Environmental Geography. This study uses Synthetic Aperture RADAR (SAR) images to characterize a shallow lake and its wetlands via backscattering parameters. Principal component analysis on Sentinel 1 C images identifies potential wetlands for other land uses, aiding in understanding environmental functionality for risk and vulnerability assessments.',
     },
