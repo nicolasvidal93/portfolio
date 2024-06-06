@@ -152,14 +152,14 @@ const CONFIG = {
     'This study explores the dynamics of shallow lakes in Argentina\'s Pampa region over a 35-year period using satellite imagery and meteorological data. It examines the frequency of these water bodies and discusses their implications for regional hydrography and environmental management.',
     },
      {
-      title: 'Vidal Quini, N. E., and Geraldi, A.M.',
-      conferenceName: '',
-      journalName: 'Cuadernos GeográficosISSN: 2340-0129',
-      authors: 'Vidal Quini, N. E., and Geraldi, A.M. ',
-      link: '10.30827/cuadgeo.v60i3.18039',
-      description:
-        'Recent interest in wetland detection and delineation aims to understand and manage these ecosystems better. This article focuses on identifying wetland areas in the Alsina basin, Argentina, using optical and radar imagery. It also examines a 2017 flood event's impact on wetland systems, confirming diverse wetland types and a hybrid ecosystem during floods.',
-    },
+  title: 'Recent Advances in Wetland Detection and Delineation: A Case Study in the Alsina Basin, Argentina',
+  conferenceName: '',
+  journalName: 'Cuadernos Geográficos ISSN: 2340-0129',
+  authors: ['Vidal Quini, N. E.', 'Geraldi, A.M.'],
+  link: 'https://doi.org/10.30827/cuadgeo.v60i3.18039',
+  description: 'Recent interest in wetland detection and delineation aims to understand and manage these ecosystems better. This article focuses on identifying wetland areas in the Alsina basin, Argentina, using optical and radar imagery. It also examines the impact of a 2017 flood event on wetland systems, confirming diverse wetland types and a hybrid ecosystem during floods.'
+}
+,
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
