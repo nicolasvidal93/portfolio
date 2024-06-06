@@ -112,10 +112,58 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Exploratory multivariate analysis',
+      body: 'Postgraduate program, Universidad Nacional del Sur',
+      year: '2019',
+      link: 'https://servicios.uns.edu.ar/institucion/graduados/list_datosalu.asp',
+    },
+    {
+      name: 'Climate variability in wetlands',
+      body: 'Postgraduate program, Universidad Nacional del Sur',
+      year: '2019',
+      link: 'https://servicios.uns.edu.ar/institucion/graduados/list_datosalu.asp',
+    },
+    {
+      name: 'Exploratory Multivariate Analysis',
+      body: 'Postgraduate program, Universidad Nacional del Sur',
+      year: '2019',
+      link: 'https://servicios.uns.edu.ar/institucion/graduados/list_datosalu.asp',
+    },
+    {
+      name: 'TIG and territory occupation (Land Use/Land Cover) in the delimitation of natural risks',
+      body: 'Postgraduate program, Universidad Nacional del Sur',
+      year: '2019',
+      link: 'https://servicios.uns.edu.ar/institucion/graduados/list_datosalu.asp',
+    },
+    {
+      name: 'Environmental Processes and Coastal Problems: Introduction to their Integrated Management',
+      body: 'Postgraduate program, Universidad Nacional del Sur',
+      year: '2018',
+      link: 'https://servicios.uns.edu.ar/institucion/graduados/list_datosalu.asp',
+    },
+    {
+      name: 'Geostatistics applied to multidimensional social and natural indices.',
+      body: 'Postgraduate program, Universidad Nacional del Sur',
+      year: '2019',
+      link: 'https://servicios.uns.edu.ar/institucion/graduados/list_datosalu.asp',
+    },
+    {
+      name: 'Statistic in Ecology',
+      body: 'Postgraduate program, Universidad Nacional del Sur',
+      year: '2018',
+      link: 'https://servicios.uns.edu.ar/institucion/graduados/list_datosalu.asp',
+    },
+    {
+      name: 'Theoretical and practical foundations of Environmental Remote Sensing Synthetic Aperture Radars (SAR) and its synergy with optical data',
+      body: 'Postgraduate program, Center for Scientific Research and Technology Transfer to Production, Entre Ríos.',
+      year: '2018',
+      link: '',
+    },
+    {
+      name: 'Territorial Action and Development Dynamics',
+      body: 'Postgraduate program, Universidad Nacional del Sur',
+      year: '2018',
+      link: 'https://servicios.uns.edu.ar/institucion/graduados/list_datosalu.asp',
     },
   ],
   educations: [
