@@ -143,14 +143,14 @@ const CONFIG = {
         'Remote sensing is essential for analyzing spatial-temporal phenomena in Environmental Geography. This study uses Synthetic Aperture RADAR (SAR) images to characterize a shallow lake and its wetlands via backscattering parameters. Principal component analysis on Sentinel 1 C images identifies potential wetlands for other land uses, aiding in understanding environmental functionality for risk and vulnerability assessments.',
     },
     {
-      title: ' Methodology for the analysis of the frequency of shallow water bodies in the Pampean region, Argentina',
-      conferenceName: '',
-      journalName: ' Investigaciones Geográficas',
-      authors: 'Vidal Quini, N. E., and Geraldi,A. M. ',
-      link: 'https://doi.org/10.14198/INGEO.23410',
-      description:
-        'The study explores the dynamics of shallow lakes in Argentina's Pampa region over 35 years using satellite imagery and meteorological data.',
-    },
+  title: 'Methodology for the analysis of the frequency of shallow water bodies in the Pampean region, Argentina',
+  conferenceName: '',
+  journalName: 'Investigaciones Geográficas',
+  authors: ['Vidal Quini, N. E.', 'Geraldi, A. M.'],
+  link: 'https://doi.org/10.14198/INGEO.23410',
+  description: 'This study explores the dynamics of shallow lakes in Argentina\'s Pampa region over a 35-year period using satellite imagery and meteorological data. It examines the frequency of these water bodies and discusses their implications for regional hydrography and environmental management.'
+}
+,
      {
       title: 'Environmental characterization of pampean wetlands through multi-temporal analysis sentinel 1',
       conferenceName: 'CIOTTIG 2022',
