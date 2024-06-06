@@ -158,7 +158,7 @@ const CONFIG = {
       authors: 'Vidal Quini, N. E., and Geraldi, A.M. ',
       link: '10.30827/cuadgeo.v60i3.18039',
       description:
-        'Remote sensing is essential for analyzing spatial-temporal phenomena in Environmental Geography. This study uses Synthetic Aperture RADAR (SAR) images to characterize a shallow lake and its wetlands via backscattering parameters. Principal component analysis on Sentinel 1 C images identifies potential wetlands for other land uses, aiding in understanding environmental functionality for risk and vulnerability assessments.',
+        'Recent interest in wetland detection and delineation aims to understand and manage these ecosystems better. This article focuses on identifying wetland areas in the Alsina basin, Argentina, using optical and radar imagery. It also examines a 2017 flood event's impact on wetland systems, confirming diverse wetland types and a hybrid ecosystem during floods.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
