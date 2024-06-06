@@ -10,6 +10,20 @@ const CONFIG = {
    * for example your repository is at https://github.com/arifszn/portfolio, then set base to '/portfolio/'.
    */
   base: '/portfolio/',
+  educations: [
+    {
+      institution: 'Universidad Nacional del Sur - Instituto Argentino de Oceanografía',
+      degree: 'PhD in Geography',
+      from: '2018',
+      to: '2024',
+    },
+    {
+      institution: 'Universidad Nacional del Sur',
+      degree: 'Degree in Geography',
+      from: '2012',
+      to: '2018',
+    },
+  ],
   projects: {
     github: {
       display: true, // Display GitHub projects?
@@ -171,20 +185,7 @@ const CONFIG = {
       link: 'https://servicios.uns.edu.ar/institucion/graduados/list_datosalu.asp',
     },
   ],
-  educations: [
-    {
-      institution: 'Universidad Nacional del Sur - Instituto Argentino de Oceanografía',
-      degree: 'PhD in Geography',
-      from: '2018',
-      to: '2024',
-    },
-    {
-      institution: 'Universidad Nacional del Sur',
-      degree: 'Degree in Geography',
-      from: '2012',
-      to: '2018',
-    },
-  ],
+ 
   publications: [
     {
       title: 'Environmental characterization of pampean wetlands through multi-temporal analysis sentinel 1',
