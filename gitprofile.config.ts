@@ -36,8 +36,7 @@ const CONFIG = {
           title: '“ASPO effect (Preventive and Mandatory Social Isolation) in the atmosphere of the southwest of the province of Buenos Aires, Argentine Republic',
           description:
             'The web visualizer is used to display the results of nitrogen dioxide (NO2) monitoring in the southwest of Buenos Aires province during the period from March to July 2020 using images from the Sentinel 5-P satellite.',
-          imageUrl:
-            '',
+          imageUrl:'',
           link: 'https://www.labgeot.uns.edu.ar/no2/',
         },
         {
