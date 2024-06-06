@@ -140,16 +140,16 @@ const CONFIG = {
       authors: 'Vidal Quini, N. E., Lucía M. Laffeuillade, and Geraldi, A. M. ',
       link: 'https://revistageosig.wixsite.com/geosig/geosig-27-2023',
       description:
-        'Remote sensing is essential for analyzing spatial-temporal phenomena in Environmental Geography. Using Synthetic Aperture RADAR (SAR) images, this study characterizes a shallow lake and its wetlands via backscattering parameters. Principal component analysis on Sentinel 1 C images identifies potential wetlands for other land uses, aiding in understanding environmental functionality for risk and vulnerability assessments.',
+        'Remote sensing is essential for analyzing spatial-temporal phenomena in Environmental Geography. This study uses Synthetic Aperture RADAR (SAR) images to characterize a shallow lake and its wetlands via backscattering parameters. Principal component analysis on Sentinel 1 C images identifies potential wetlands for other land uses, aiding in understanding environmental functionality for risk and vulnerability assessments.',
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'Methodology for the analysis of the frequency of shallow water bodies in the Pampean region, Argentina',
+      conferenceName: '',
+      journalName: 'Investigaciones Geográficas',
+      authors: 'Vidal Quini, N. E., and Geraldi, A.M.',
+      link: 'https://doi.org/10.14198/INGEO.23410',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'The shallow lakes in Argentina's Pampa region exhibit significant variability in temperature and precipitation. These ecosystems are vital, yet their environmental services remain understudied. Recent decades have seen climate variability and agricultural practices alter the regional hydrography. This study employs satellite imagery and meteorological data to monitor these shallow lakes over 35 years, examining dynamics related to temperature and precipitation changes. Results indicate temperature exerts a greater influence than precipitation on shallow lake presence or desiccation. This methodology underscores the necessity of understanding hydrographic system responses to potential hazards and identifying vulnerabilities.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
