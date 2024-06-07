@@ -132,6 +132,12 @@ const CONFIG = {
  
   certifications: [
     {
+      name: 'Scientific Computing with Python',
+      body: 'https://www.freecodecamp.org/',
+      year: '2024',
+      link: 'https://www.freecodecamp.org/certification/fcc0cd6c527-49cf-47ed-9dc6-cf3b4e3d3fe3/scientific-computing-with-python-v7',
+    },
+    {
       name: 'Exploratory multivariate analysis',
       body: 'Postgraduate program, Universidad Nacional del Sur',
       year: '2019',
@@ -185,6 +191,7 @@ const CONFIG = {
       year: '2018',
       link: 'https://servicios.uns.edu.ar/institucion/graduados/list_datosalu.asp',
     },
+    
   ],
  
   publications: [
