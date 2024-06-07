@@ -138,6 +138,12 @@ const CONFIG = {
       link: 'https://www.freecodecamp.org/certification/fcc0cd6c527-49cf-47ed-9dc6-cf3b4e3d3fe3/scientific-computing-with-python-v7',
     },
     {
+      name: 'Language Proficiency Exam in English',
+      body: 'Postgraduate program, Universidad Nacional del Sur',
+      year: '2021',
+      link: '',
+    },
+    {
       name: 'Exploratory multivariate analysis',
       body: 'Postgraduate program, Universidad Nacional del Sur',
       year: '2019',
