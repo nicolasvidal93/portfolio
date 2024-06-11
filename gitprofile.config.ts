@@ -247,7 +247,7 @@ const CONFIG = {
 }
 ,
  {
-  title: '“ASPO effect (Preventive and Mandatory Social Isolation) in the atmosphere of the southwest of the province of Buenos Aires, Argentine Republic.',
+  title: 'ASPO effect (Preventive and Mandatory Social Isolation) in the atmosphere of the southwest of the province of Buenos Aires, Argentine Republic.',
   conferenceName: '',
   journalName: 'Estudios socioterritoriales – ISSN: 1853-4392',
   authors: ['Laffeuillade L., Vidal Quini N., Peñas V.H and Geraldi A. M.'],
