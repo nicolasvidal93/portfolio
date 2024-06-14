@@ -202,14 +202,13 @@ const CONFIG = {
  
   publications: [
     {
-      title: 'Environmental characterization of pampean wetlands through multi-temporal analysis sentinel 1',
-      conferenceName: 'CIOTTIG 2022',
-      journalName: 'Geografía y Sistemas de Información Geográfica ISSN 1852-8031',
-      authors: 'Vidal Quini, N. E., Lucía M. Laffeuillade, and Geraldi, A. M. ',
-      imageUrl: 'https://raw.githubusercontent.com/nicolasvidal93/portfolio/main/figura%204.png',
-      link: 'https://revistageosig.wixsite.com/geosig/geosig-27-2023',
-      description:
-        'Remote sensing is essential for analyzing spatial-temporal phenomena in Environmental Geography. This study uses Synthetic Aperture RADAR (SAR) images to characterize a shallow lake and its wetlands via backscattering parameters. Principal component analysis on Sentinel 1 C images identifies potential wetlands for other land uses, aiding in understanding environmental functionality for risk and vulnerability assessments.',
+        title: 'Environmental Characterization of Pampean Wetlands through Multi-Temporal Analysis of Sentinel 1',
+        conferenceName: 'CIOTTIG 2022',
+        journalName: 'Geografía y Sistemas de Información Geográfica ISSN 1852-8031',
+        authors: 'Vidal Quini, N. E., Lucía M. Laffeuillade, and Geraldi, A. M.',
+        imageUrl: 'https://raw.githubusercontent.com/nicolasvidal93/portfolio/main/figura%204.png',
+        link: 'https://revistageosig.wixsite.com/geosig/geosig-27-2023',
+        description: 'Remote sensing is essential for analyzing spatial-temporal phenomena in Environmental Geography. This study uses Synthetic Aperture RADAR (SAR) images to characterize a shallow lake and its wetlands via backscattering parameters. Principal component analysis on Sentinel 1 C images identifies potential wetlands for other land uses, aiding in understanding environmental functionality for risk and vulnerability assessments.',
     },
     {
   title: 'Methodology for the analysis of the frequency of shallow water bodies in the Pampean region, Argentina',
